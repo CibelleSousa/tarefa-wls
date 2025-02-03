@@ -59,11 +59,11 @@ Com os pré-requisitos atendidos, siga os passos a seguir:
 
 1. Utilize o VS Code para abrir a pasta raiz do projeto clonado:
 
-![Abrir pasta...](assets/open_folder.PNG)
+![Abrir pasta...](assets/open_folder.png)
 
 2. Clique em "Compile", à direita da barra de status e aguarde o processo:
 
-![Compile](assets/compile_button.PNG)
+![Compile](assets/compile_button.png)
 
 3. Abra o arquivo `diagram.json` e clique no botão de play para iniciar a simulação:
 
